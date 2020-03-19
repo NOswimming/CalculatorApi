@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GpTmu9xpjfaleKVDkbAp+O2wiKwKbBAZTfIGw+yAZrWdFXVszsvf8lW/9QLlEUWIXOEWSrcaYGI8xtcub05mmg==",
+  "dgSpecHash": "7hpSwXjsESWyaJhOZMNJjttLGdbhcD2hnJB2ax1LFS5Lk5QDOmni9cbhcjPBojnvWoqe61vE3pfoEHL7mGmemw==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\CalculatorApi\\CalculatorApi\\WebApplication1\\Calculator.API.csproj",
+  "projectFilePath": "C:\\Repos\\CalculatorApi\\Calculator.API\\Calculator.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
